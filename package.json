@@ -1,0 +1,33 @@
+{
+  "name": "mqtt-test",
+  "version": "0.0.1",
+  "description": "Test your mqtt broker with custom packets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debdutto/mqtt-test.git"
+  },
+  "keywords": [
+    "mqtt",
+    "mosquitto",
+    "mosca",
+    "aedes",
+    "test",
+    "packet",
+    "publish",
+    "subscribe",
+    "listen"
+  ],
+  "author": "Debdutto Chakraborty <debdutto.chakraborty@gmail.com> (https://github.com/Debdutto)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Debdutto/mqtt-test/issues"
+  },
+  "homepage": "https://github.com/Debdutto/mqtt-test#readme",
+  "dependencies": {
+    "jsonschema": "^1.1.0"
+  }
+}
